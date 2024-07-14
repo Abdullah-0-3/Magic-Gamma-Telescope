@@ -1,7 +1,7 @@
 # **Magic-Gamma-Telescope**
 Magic Gamma Telescope is a classification project to classify two types of gamma rays in the air or environment. These are g &amp; h. Here are codes and apps to check.
 
-### **Suation***
+### **Situation**
 
 Needed to accurately classify gamma rays using data from the Magic Gamma Telescope; existing methods were inefficient.
 
